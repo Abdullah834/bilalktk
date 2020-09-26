@@ -21,7 +21,7 @@
 
 ##
   
-  <img align="right" alt="GIF" src= "https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"" />
 
 **Talking about Personal Stuffs:**
 
