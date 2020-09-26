@@ -6,6 +6,11 @@
 <a href="bilalnkhattak@gmail.com">
   <img align="left" alt="Bilal's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
+
+<a href="https://www.instagram.com/mabroukimehdi/">
+  <img align="left" alt="Bilal's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
+</a>
+
 <a href="https://www.instagram.com/mabroukimehdi/">
   <img align="left" alt="Bilal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
