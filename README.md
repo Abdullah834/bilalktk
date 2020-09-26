@@ -53,7 +53,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
 ---
-###  Languages and Tools
+###  Languages and Services
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -77,6 +77,15 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   </a> 
   <a href="#">
     <img src="svg/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
  
 </p>
