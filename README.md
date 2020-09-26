@@ -90,16 +90,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
    <a href="#">
     <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
   </a> 
- 
-</p>
-
----
-### Tools
-
-<p align="center">
-  <a href="#">
-    <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px">
-  </a> 
   <a href="#">
     <img src="svg/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -120,7 +110,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   </a>  <a href="#">
     <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
-  
+ 
 </p>
 
 
