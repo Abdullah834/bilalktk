@@ -46,10 +46,16 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 ---
-###  Languages and Services
+###  Languages & Technologies
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <a href="#">
+    <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -58,6 +64,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   </a> 
   <a href="#">
     <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
@@ -80,9 +89,35 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <a href="#">
     <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
+   <a href="#">
+    <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  </a> 
  
 </p>
 
+### Tools
+
+<p align="center">
+  <a href="#">
+    <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/office_365.svg" alt="office_365" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+</p>
 
 
 <div align="center">
