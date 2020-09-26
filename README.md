@@ -10,8 +10,8 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
-<a href="https://www.facebook.com/bilalnkhattak">
-  <img align="left" alt="Bilal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://github.com/bilalktk">
+  <img align="left" alt="Bilal's Github" width="22px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
