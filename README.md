@@ -23,7 +23,7 @@
 ##
 <img align="right" alt="GIF" src= "https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
 
-- **Talking about Personal Stuffs:**
+**Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
 - 🌱 I’m currently learning GraphQL and C++; 
@@ -33,7 +33,6 @@
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: geekyabhi12@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
-
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
