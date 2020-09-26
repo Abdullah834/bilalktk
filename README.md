@@ -39,14 +39,12 @@
 
 <p align="center">
 
+<a href="mailto:himanshuthesheoran@gmail.com" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg"  /> &nbsp; &nbsp;
+ </a>
 <a href="https://github.com/deut-erium" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" /> &nbsp; &nbsp;
  </a>
-
-<a href="mailto:himanshuthesheoran@gmail.com" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" /> &nbsp; &nbsp;
- </a>
-
 <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
