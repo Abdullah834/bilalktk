@@ -1,4 +1,4 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> #Hello, I'm Bilal! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29"/> </h2>
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello, I'm Bilal! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29"/> </h2>
 
 <a href="https://github.com/bilalktk">
   <img align="left" alt="Bilal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
