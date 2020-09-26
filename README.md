@@ -26,7 +26,7 @@
   
   <img align="right" alt="GIF" src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966>
 
-# I'm Currently :eyes:
+### I'm Currently :eyes:
 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning Machine Learning and Datascience 
