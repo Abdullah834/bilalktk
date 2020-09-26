@@ -44,7 +44,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 ---
-###  Languages & Technologies
+### Technologies & Tools
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
