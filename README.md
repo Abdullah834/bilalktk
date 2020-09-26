@@ -61,19 +61,16 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
     <img src="svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
