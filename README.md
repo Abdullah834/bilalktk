@@ -51,11 +51,11 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
 
-## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
-<br/>
-  <br/>
+
+---
+###  Languages and Tools
+
+
 
 
 
