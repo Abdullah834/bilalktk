@@ -3,11 +3,11 @@
 <a href="https://github.com/bilalktk">
   <img align="left" alt="Bilal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Bilal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="bilalnkhattak@gmail.com">
   <img align="left" alt="Bilal's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/mabroukimehdi/">
+  <img align="left" alt="Bilal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.kaggle.com/bilalktk">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
