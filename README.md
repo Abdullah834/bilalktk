@@ -57,7 +57,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/bilalktk/bilalktk/tree/master/svgjava.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/react.svg" alt="react" style="vertical-align:top; margin:4px">
