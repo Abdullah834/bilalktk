@@ -19,22 +19,19 @@
 
 <em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
-## Ask me about :computer: 
-- **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
+	
+<img align="right" alt="GIF" src= "https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" />
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+- ## **Talking about Personal Stuffs:**
 
-- **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
-- **Shell Scripting**
+- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+- 🌱 I’m currently learning GraphQL and C++; 
+- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- 📫 How to reach me: geekyabhi12@gmail.com;
+- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
