@@ -1,4 +1,4 @@
-##  Hi There! /> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29"/> </h2>
+##  Hi there! /> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29"/> </h2>
 
 <a href="https://github.com/bilalktk">
   <img align="left" alt="Bilal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
