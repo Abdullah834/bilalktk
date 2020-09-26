@@ -62,9 +62,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 </div>
 
 <p align="center">
-<a href="https://www.facebook.com/bilalnkhattak/" target="blank">
-  <img align="center" alt="Bilal's LinkedIn" width="40px" src="https://img.icons8.com/color/96/000000/facebook.png" /> &nbsp; &nbsp;
- </a>
 <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
   <img align="center" alt="Bilal's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
@@ -80,4 +77,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <br/>
   <br/>
   
-  Thanks for stopping by 😁<br/>
+  Thanks for stopping by 😁
+  
+  <br/>
