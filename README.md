@@ -55,6 +55,21 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ---
 ###  Languages and Tools
 
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/bilalktk/bilalktk/master/svg/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+</p>
 
 
 
