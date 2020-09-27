@@ -112,11 +112,11 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
  
 </p>
 
+![image](https://github.com/bilalktk/bilalktk/Resources/master/dino.gif
 
 <br />
 <br />
 <br />
-
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -135,8 +135,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <img align="center" alt="Bilal's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
   <br/>
-  <br/>
-  
   <div align="center">
     Thanks for stopping by 😁
 </div>
