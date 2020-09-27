@@ -74,9 +74,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
     <img src="svg/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="svg/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
     <img src="svg/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
@@ -90,9 +87,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   </a> 
    <a href="#">
     <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px">
