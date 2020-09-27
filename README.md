@@ -64,9 +64,6 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <a href="#">
     <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
-   <a href="#">
-    <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px">
-  </a> 
   <a href="#">
     <img src="svg/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -88,6 +85,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <a href="#">
     <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
+  <a href="#">
+    <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a> 
    <a href="#">
     <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -101,15 +101,16 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
     <img src="svg/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
     <img src="svg/office_365.svg" alt="office_365" style="vertical-align:top; margin:6px 4px">
   </a> 
    <a href="#">
     <img src="svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
-  </a>  <a href="#">
-    <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p> 
 
