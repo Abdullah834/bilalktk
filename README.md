@@ -109,11 +109,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   </a>  <a href="#">
     <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
-</p>
-
-</a>  <a href="#">
-    <img src="svg/dino.gif" alt="dino" align="center" style="width: 120%">
-  </a> 
+</p> 
 
 <br />
 <br />
