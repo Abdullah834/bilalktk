@@ -113,14 +113,13 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 </p>
 
 
+<br />
+<br />
+<br />
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
-
-<br />
-<br />
-<br />
-
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
@@ -138,6 +137,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <br/>
   <br/>
   
-  Thanks for stopping by 😁
+  <div align="center">
+    Thanks for stopping by 😁
+</div>
   
   <br/>
