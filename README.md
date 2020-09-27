@@ -111,10 +111,19 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <br />
 
 <!-- My GitHub stats with buefy theme -->
-<p align="center">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
+<!--START_SECTION:waka-->
+```text
+Python     1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
+Java       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
+C++        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Dart       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+```
+<!--END_SECTION:waka-->
 
 ##
 
