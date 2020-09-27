@@ -116,7 +116,10 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalktk&layout=compact)](https://github.com/bilalktk/github-readme-stats)
+<!-- My GitHub stats with buefy theme -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=bilalktk&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 
 
 ##
