@@ -133,9 +133,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
  <a href="https://twitter.com/pramod2107" target="blank">
   <img align="center" alt="Bilal's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp;
  </a>
- <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Bilal's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
+ 
   <br/>
   <div align="center">
     Thanks for stopping by 😁
