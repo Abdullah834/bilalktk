@@ -24,7 +24,7 @@
 
 -----------
   
-  <img align="right" alt="GIF" src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966>
+  <img align="right" alt="GIF" height="270px" width="450px" src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966>
 
 ### I'm Currently <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -117,18 +117,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <br />
 <br />
 
-<!--START_SECTION:waka-->
-```text
-Python     1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Java       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-C++        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Dart       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Other      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-```
-<!--END_SECTION:waka-->
-
 <!-- My GitHub stats with buefy theme -->
-<p align="right">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
