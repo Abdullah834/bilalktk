@@ -117,18 +117,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <br />
 <br />
 
-## Fun-Fact: I solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
 <!-- My GitHub stats with buefy theme -->
-<p align="right">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
