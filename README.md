@@ -92,13 +92,13 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
     <img src="svg/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
-    <img src="svg/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/office_365.svg" alt="office_365" style="vertical-align:top; margin:6px 4px">
   </a> 
-   <a href="#">
-    <img src="svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
+    <a href="#">
+    <img src="svg/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="#">
     <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px">
