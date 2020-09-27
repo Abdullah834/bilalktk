@@ -12,10 +12,10 @@
 <a href="https://www.kaggle.com/bilalktk">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Bilal's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
 </a>
-
+<a href="https://medium.com/@bilalktk">
+  <img align="left" alt="Bilal's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 <br />
 <br />
