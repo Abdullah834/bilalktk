@@ -20,9 +20,9 @@
 <br />
 <br />
 
-I am a final Year CS Major from <a href="http://www.uop.edu.pk//"><b>University of Peshawar</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠
- <br/>
+> final Year CS Major from <a href="http://www.uop.edu.pk//"><b>University of Peshawar</b></a>. I'm curious, enthusiastic and student most of the time. Full-stack developer <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> with passion for videogames. Fascinated by everything that's CS related.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
 
+-----------
   
   <img align="right" alt="GIF" src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966>
 
