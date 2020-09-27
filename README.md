@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Final Year CS Major from <a href="http://www.uop.edu.pk//"><b>University of Peshawar</a>. I'm curious, enthusiastic and student most of the time. Full-stack developer <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> with passion for videogames. Fascinated by everything that's CS related.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
+Final Year CS Major from <a href="http://www.uop.edu.pk//">University of Peshawar</a>. I'm curious, enthusiastic and student most of the time. Full-stack developer <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> with passion for videogames. Fascinated by everything that's CS related.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
 
   
   <img align="right" alt="GIF" height="300px" width="420px" src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966>
