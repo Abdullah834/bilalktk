@@ -112,7 +112,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <!-- My GitHub stats with buefy theme -->
 <p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165" width="300">
 </p>
 
 <!--START_SECTION:waka-->
