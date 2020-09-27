@@ -112,9 +112,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
  
 </p>
 
-<div align="center">
-<img src="https://github.com/bilalktk/bilalktk/master/svg/dino.gif" align="center" style="width: 100%" />
-</div>
+</a>  <a href="#">
+    <img src="svg/dino.gif" alt="dino" align="center" style="width: 100%">
+  </a> 
 
 <br />
 <br />
