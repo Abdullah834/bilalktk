@@ -33,7 +33,7 @@ Final Year CS Major from <a href="http://www.uop.edu.pk//">University of Peshawa
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> Exploring **Machine Learning**, **AI** and **NLP**
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> Looking to Collaborate on **ML Projecs**
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun-Fact: I solved the world's oldest question with a single line of JavaScript
+- <img alt="GIF" src="https://giphy.com/stickers/SionaraVideo-bolt-sionara-dUqbMawkpIfH6ZBZvf" width="20vw" /> Fun-Fact: I solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
