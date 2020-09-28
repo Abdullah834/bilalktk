@@ -44,67 +44,29 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 <br />
 
-# Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <a href="#">
-    <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-   <a href="#">
-    <img src="svg/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/office_365.svg" alt="office_365" style="vertical-align:top; margin:6px 4px">
-  </a> 
-    <a href="#">
-    <img src="svg/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px">
-  </a> 
-   <a href="#">
-    <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  <a href="#"> <img src="svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"> </a>
+  <a href="#"> <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"> </a>
+  <a href="#"> <img src="svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/js.svg"   alt="js" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/ai.svg"   alt="ai" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/aws.svg"  alt="aws" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/gcp.svg"  alt="gcp" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/npm.svg"  alt="npm" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/datascience.svg"  alt="datascience" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/chrome.svg"     alt="chrome" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/office_365.svg" alt="office_365" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px"> </a> 
+  <a href="#"> <img src="svg/android_studio.svg" alt="android" style="vertical-align:top; margin:6px 4px"> </a> 
+   <a href="#"> <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px"> </a> 
 </p> 
 
 <br />
