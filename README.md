@@ -23,7 +23,7 @@
 Final Year CS Major from <a href="http://www.uop.edu.pk//">University of Peshawar</a>. I'm curious, enthusiastic and student most of the time. Full-stack developer <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> with passion for videogames. Fascinated by everything that's CS related.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>
 
   
-  <img align="right" alt="GIF" height="310px" width="420px" src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966>
+  <img align="right" alt="GIF" height="320px" width="420px" src=https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966>
 
 ### I'm Currently <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -34,7 +34,6 @@ Final Year CS Major from <a href="http://www.uop.edu.pk//">University of Peshawa
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> Looking to Collaborate on **ML Projecs**
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw"/>Fun-Fact: I solved the world's oldest question with a single line of JavaScript
-
 <!-- wi*quL3fcV -->
 
 ```javascript
